@@ -1,0 +1,50 @@
+{
+    "portfolios": [
+        {
+            "identifier": "6b86b273ff34fce19d6b804eff5a3f57",
+            "title": "Agri-Tech Business",
+            "company_name": "Growforme Limited",
+            "company_logo": "",
+            "link": "https://growforme.com",
+            "icon":"CiBank",
+            "scope": "Development of a comprehensive platform aimed at digitizing and streamlining agricultural processes for farmers and stakeholders in Ghana.",
+            "requirement": "A user-friendly web and mobile platform for farmers to access resources, connect with suppliers, and manage their farm operations efficiently. The platform needed to support data analytics and reporting.",
+            "deliverables": "A functional web application with farmer profiles, input ordering, produce marketplace, and advisory services. Also included a mobile application for on-the-go access.",
+            "timeline": "5 years",
+            "stack":"Django, Nextjs, AWS, PostgreSQL, React Native, Expo"
+        },
+        {
+            "identifier": "8f14e45fceea167a5a36dedd34b73c36", 
+            "title": "DABI Media Site",
+            "company_name": "Dabi TV",
+            "company_logo": "",
+            "link": "https://dabitv.com",
+            "icon":"CiBank",
+            "scope": "Creation of a dynamic media website for Dabi TV, featuring news, articles, video content, and live streaming capabilities.",
+            "requirement": "A responsive and visually appealing content management system that supports various media formats, with user engagement features like comments and social sharing.",
+            "deliverables": "A fully functional Dabi TV media website with content publishing tools, video player integration, and a user-friendly interface.",
+            "timeline": "2 months",
+            "project_stack": "Django, Nextjs"
+        }
+    ],
+    "articles":[
+        {
+            "identifier": "d3d9446802a44259755d38e6d163e820", 
+            "thumbnail":"/assets/images/blog1.png",
+            "title":"Operating Systems as a Service built with Web Technologies",
+            "content":"Exploring the innovative concept of delivering full-fledged operating systems as a service directly through web browsers. This article delves into the architectural considerations, technological stacks, and potential implications of moving traditional OS functionalities to the cloud, accessible entirely via web technologies. We examine the benefits of such an approach, including reduced hardware requirements, enhanced accessibility, and simplified deployment and management. The discussion covers the challenges of security, performance, and user experience, and proposes solutions leveraging modern web standards and cloud infrastructure. This new paradigm could revolutionize how we interact with computing resources, making powerful operating environments available anywhere, anytime, on any device."
+        },
+        {
+            "identifier": "6512bd43d9caa6e02c990b0a82652dca", 
+            "thumbnail":"/assets/images/blog2.png",
+            "title":"100MB to 1KB Lossless Data Compression Algorithm",
+            "content":"This article introduces a revolutionary lossless data compression algorithm capable of reducing data sizes from 100MB to an astonishing 1KB. We detail the unique methodologies employed, focusing on advanced pattern recognition, entropy encoding, and novel data transformation techniques that achieve unparalleled compression ratios without any loss of information. The theoretical underpinnings of the algorithm are explored, along with practical applications and benchmarks demonstrating its efficiency across various data types. The potential impact on data storage, transmission speeds, and cloud computing infrastructure is discussed, highlighting how this breakthrough could redefine data management paradigms and significantly reduce digital footprints."
+        },
+        {
+            "identifier": "1236b616815a75333e4b89122a2f0a9f", 
+            "thumbnail":"/assets/images/blog2.png",
+            "title":"(MobileDet) Mobile Liquid Ingredients/Quantity Detector",
+            "content":"Presenting MobileDet, a groundbreaking mobile application designed to accurately detect and quantify liquid ingredients using a smartphone's camera. This article outlines the development of the computer vision and machine learning models that power MobileDet, enabling it to identify various liquids and estimate their volumes in real-time. We discuss the challenges of diverse lighting conditions, container types, and liquid properties, and how our proprietary algorithms overcome these hurdles to provide precise measurements. The applications extend from culinary arts and home brewing to scientific experiments and industrial quality control, offering a convenient and accessible tool for precise liquid measurement on the go."
+        }
+    ]
+}

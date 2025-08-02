@@ -1,0 +1,172 @@
+{
+  "language": "Language",
+  "menu": "Menu",
+  "customer_support_specialist": "Customer Support Specialist",
+  "phone": "Phone",
+  "email": "Email",
+  "location": "Location",
+  "about": "About",
+  "resume": "Resume",
+  "portfolio": "Portfolio",
+  "moonshots": "Moonshots",
+  "contact": "Contact",
+  "rights_reserved": "All Rights Reserved",
+  "back_home": "Back Home",
+
+  "index_page": {
+    "meta_title": "Kelvin Obodai - Customer Support Specialist | Executive Assistant | CRM & Automation Enthusiast",
+    "site_description": "",
+    "about": "About",
+    "who_i_am": "Customer-focused and tech-savvy Customer Support Specialist with 4+ years of onsite and remote experience delivering high-quality service across multiple time zones. Skilled in using tools like Zendesk, Bitrix, and LiveChat to reduce First Response Time (FRT) by up to 85% and improve CSAT scores by 40%. Known for empathetic communication, conflict de-escalation, virtual assistance, and providing tailored solutions that drive customer loyalty and retention. Adept at using AI chatbots and workflow automation to streamline ticket lifecycles and reduce volume. Experienced in workflow coordination, admin support, helpdesk tools, first contact resolution strategies to reduce customer escalations and proactive follow-ups to ensure customer success.",
+    "what_i_do": "What I Do",
+    "my_motivation": "My Motivation",
+    "motivation_words": "My motivation stems from a passion for crafting elegant solutions to complex problems and seeing the tangible impact of my work. I am driven by the opportunity to innovate, continuously learn, and contribute to the advancement of technology. Each challenge fuels my determination to exceed expectations and leave a lasting mark on the field of software development.",
+    "services": {
+      "frontend": "Frontend Development",
+      "frontend_description": "I build engaging and intuitive user interfaces, ensuring a seamless and visually appealing experience for visitors interacting with your website.",
+      "backend": "Backend Development",
+      "backend_description": "I build a robust server-side logic, databases, and APIs that power your web applications, ensuring secure and efficient data management.",
+      "mobile": "Mobile App Development",
+      "mobile_description": "I design and develop innovative mobile applications for iOS and Android, bringing your ideas to life on the go.",
+      "uiux": "UI/UX Design",
+      "uiux_description": "I create user-centric designs that are not only aesthetically pleasing but also incredibly easy and enjoyable to use, focusing on both user interface and user .",
+      "graphics": "Graphic Design",
+      "graphics_description": "I produce stunning visual content, from intricate 2D illustrations to immersive 3D models and animations, for various digital platforms.",
+      "consultancy": "Consultancy",
+      "consultancy_description": "I provide expert guidance and strategic insights to help businesses leverage technology effectively, optimize their operations, and achieve their digital goals.",
+      "hardware": "Hardware Development",
+      "hardware_description": "I bring innovative physical products to fruition, from initial concept and prototyping to full-scale hardware development and manufacturing support.",
+      "ai": "AI Training",
+      "ai_description": "I specialize in the art of crafting effective prompts for AI models and developing robust training datasets to optimize AI performance and capabilities."
+    }
+  },
+
+  "resume_page": {
+    "meta_title": "Kelvin Obodai - Resume",
+    "site_description": "A passionate Entrepreneur, Technology Enthusiast and still in the business of impacting the world positively with science & technology",
+    "resume": "Resume",
+    "education": "Education",
+    "bachelor_of_science_ba":"Bachelor of Science in Business Administration (Health Services Option)",
+    "business":"Business",
+    "expertise": "Expertise",
+    "intern_1": "Health Service Administrator",
+    "intern_2": "Health Information System",
+    "employee": "Customer Support Lead",
+    "working_skills": "Working Skills",
+    "knowledges": "Knowledges",
+    "core_support_skills": "Core Support Skills",
+    "tools_platforms": "Tools & Platforms",
+    "performance_metrics": "Perfomance Metrics",
+    "automation_systems": "Automation systems",
+    "administrative_assistance": "Administration Assistance"
+  },
+
+  "portfolios_page": {
+    "meta_title": "Kelvin Obodai - Portfolio",
+    "site_description": "A passionate Entrepreneur, Technology Enthusiast and still in the business of impacting the world positively with science & technology",
+    "portfolio": "Portfolio",
+    "read_more": "Read More",
+    "view_project": "View Project"
+   
+  },
+
+  "portfolio_page":{
+    "meta_title": "Kelvin Obodai - Portfolio",
+    "site_description": "A passionate Entrepreneur, Technology Enthusiast and still in the business of impacting the world positively with science & technology",
+    "portfolio": "Portfolio",
+    "title": "{title}",
+    "company": "{company}",
+    "scope": "Project Scope:",
+    "requirement": "Project Requirements:",
+    "deliverables": "Project Deliverables:",
+    "timeline": "Project Timeline:",
+    "stack": "{stack}",
+    "back_to_portfolio": "Back to Portfolio",
+    "scope_title": "Project Scope",
+    "requirement_title": "Project Requirements",
+    "deliverables_title": "Project Deliverables",
+    "timeline_title": "Project Timeline",
+    "stack_title": "Project Stack"
+
+  },
+
+  "moonshots_page":{
+    "meta_title": "Kelvin Obodai - Moonshots",
+    "moonshots_title": "Moonshots",
+    "site_description": "A passionate Entrepreneur, Technology Enthusiast and still in the business of impacting the world positively with science & technology",
+    "read_more": "Read More",
+    "view_project": "View Project"
+  },
+
+  "moonshot_page":{
+    "moonshot_title":"Moonshots",
+    "back_to_moonshots":"Back to Moonshots",
+    "scope_title":"Project Scope",
+    "requirement_title":"Project Requirements",
+    "deliverables_title":"Project Deliverables",
+    "timeline_title":"Project Timeline",
+    "stack_title":"Project Stack"
+
+  },
+
+  "contact_page":{
+    "meta_title":"Kelvin Obodai - Contact",
+    "site_description":"A passionate Entrepreneur, Technology Enthusiast and still in the business of impacting the world positively with science & technology",
+    "contact":"Contact"
+  },
+
+  "projects": {
+    "6b86b273ff34fce19d6b804eff5a3f57": {
+      "title": "Agri-Tech Business",
+      "company": "Growforme Limited",
+      "logo": "",
+      "link": "https://growforme.com",
+      "icon":"CiBank",
+      "scope": "Development of a comprehensive platform aimed at digitizing and streamlining agricultural processes for farmers and stakeholders in Ghana.",
+      "requirement": "A user-friendly web and mobile platform for farmers to access resources, connect with suppliers, and manage their farm operations efficiently. The platform needed to support data analytics and reporting.",
+      "deliverables": "A functional web application with farmer profiles, input ordering, produce marketplace, and advisory services. Also included a mobile application for on-the-go access.",
+      "timeline": "5 years",
+      "stack": "Django, Nextjs, AWS, PostgreSQL, React Native, Expo",
+      "type":"portfolio"
+    },
+    "e4da3b7fbbce2344d7772b067eb1b2dc": {
+      "title": "School Management System",
+      "company": "Schoolz - Osanim Systems",
+      "logo": "",
+      "link": "https://schoolzadmin.com/",
+      "icon":"CiBank",
+      "scope": "Building a comprehensive school management system to streamline administrative tasks, student information, and academic processes for educational institutions.",
+      "requirement": "A web-based platform for managing student records, admissions, attendance, grades, fees, and communication between teachers, parents, and administrators.",
+      "deliverables": "A complete Schoolz administrative portal, student and parent portals, and a mobile app for key functionalities.",
+      "timeline": "7 years",
+      "stack": "Django, Nextjs, AWS, PostgreSQL, React Native, Expo",
+      "type":"portfolio"
+    },
+    "8f14e45fceea167a5a36dedd34b73c36": {
+      "title": "DABI Media Site",
+      "company": "Dabi TV",
+      "logo": "",
+      "link": "https://dabitv.com",
+      "icon":"CiBank",
+      "scope": "Creation of a dynamic media website for Dabi TV, featuring news, articles, video content, and live streaming capabilities.",
+      "requirement": "A responsive and visually appealing content management system that supports various media formats, with user engagement features like comments and social sharing.",
+      "deliverables": "A fully functional Dabi TV media website with content publishing tools, video player integration, and a user-friendly interface.",
+      "timeline": "2 months",
+      "stack": "Django, Nextjs",
+      "type":"portfolio"
+    },
+    "2c9da5e19d4c2f636f067f89cc14862c": {
+        "title": "Logitrac",
+        "company": "DecipherX",
+        "logo": "",
+        "link": "",
+        "icon":"CiBank",
+        "scope": "Development of a comprehensive platform for tracking and managing logistics operations, including real-time tracking, inventory management, and reporting capabilities.",
+        "requirement": "A secure and efficient web-based platform for logistics companies to manage their operations, including tracking shipments, managing inventory, and generating reports.",
+        "deliverables": "A web application for logistics tracking and management, with features for real-time tracking, inventory management, and reporting.",
+        "timeline": "Ongoing (Long-term R&D)",
+        "stack": "Django, Nextjs, AWS, PostgreSQL, React Native, Expo",
+        "type":"moonshots"
+      }
+  }
+}

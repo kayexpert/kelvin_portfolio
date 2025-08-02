@@ -1,0 +1,41 @@
+{
+  "name": "godfred",
+  "version": "0.0.1",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "turbo": "next dev --turbo"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "sonner": "latest",
+    "zustand": "latest"
+  },
+  "devDependencies": {
+    "@hookform/resolvers": "latest",
+    "@radix-ui/react-accordion": "latest",
+    "@radix-ui/react-collapsible": "latest",
+    "@radix-ui/react-form": "latest",
+    "@radix-ui/react-icons": "latest",
+    "@radix-ui/themes": "3.1.4",
+    "@tanstack/react-query": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "eslint": "latest",
+    "framer-motion": "latest",
+    "next-intl": "latest",
+    "next-pwa": "latest",
+    "next-view-transitions": "latest",
+    "prisma": "latest",
+    "react-hook-form": "latest",
+    "react-icons": "latest",
+    "typescript": "latest",
+    "yup": "latest"
+  }
+}

@@ -1,0 +1,38 @@
+:root {
+  --gradient-from: rgba(255, 255, 255, 0.1);
+}
+
+[data-theme="dark"] {
+  --gradient-from: rgba(0, 0, 0, 0.1);
+}
+
+a {
+  list-style-type: none;
+  text-decoration: none;
+  color: inherit;
+}
+
+.radix-themes {
+  --heading-font-family: var(--avenir_black);
+  --default-font-family: var(--roboto_regular);
+  --line-height: 1.5;
+  --letter-spacing: 0.025em;
+  --heading-letter-spacing: 0.05em;
+}
+
+.rdp-root {
+  --rdp-accent-color: indigo; /* Change the accent color to indigo. */
+  --rdp-accent-background-color: red; /* Change the accent background color to gray. */
+  /* Add more CSS variables here. */
+}
+
+.label {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.01em;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
